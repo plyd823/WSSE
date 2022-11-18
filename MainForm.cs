@@ -21,5 +21,20 @@ namespace WSSE
         {
 
         }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label37_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void numericUpDown20_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
